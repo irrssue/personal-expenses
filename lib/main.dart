@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
                 fontSize: 27,
                 fontWeight: FontWeight.bold,
                 color: Colors.white),
+            foregroundColor: Colors.blueAccent,
           )),
       home: MyHomePage(),
     );
